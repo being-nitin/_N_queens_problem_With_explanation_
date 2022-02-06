@@ -11,6 +11,8 @@ public class Main {
        N * *
        * * N
        * N *
+
+      The dimension of matrix will be equals to number of queens.
      */
 
 
